@@ -58,6 +58,8 @@ Tabel: `mata_kuliah`
 
 - Menampilkan pesan jika terjadi kesalahan SQL (misalnya duplikasi data).
 
+---
+
 # ✍️ Penulis
 
 Faiq
