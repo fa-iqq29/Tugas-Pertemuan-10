@@ -57,3 +57,13 @@ Tabel: `mata_kuliah`
 - Menampilkan pesan jika file gagal dibaca.
 
 - Menampilkan pesan jika terjadi kesalahan SQL (misalnya duplikasi data).
+
+# ✍️ Penulis
+
+Faiq
+
+Mahasiswa Sistem Informasi
+
+Semester 3
+
+Universitas Islam Negeri Sunan Ampel Surabaya
